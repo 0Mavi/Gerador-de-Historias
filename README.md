@@ -7,7 +7,7 @@ Este aplicativo permite que o usuário crie o início de uma história literári
 
 ## 🚀 Acesse o App Online
 
-👉 **[Clique aqui para usar o aplicativo no navegador]((https://gerador-de-historias-ia.streamlit.app/))**  
+👉 **[Clique aqui para usar o aplicativo no navegador](https://gerador-de-historias-ia.streamlit.app/)**  
 
 
 ---
